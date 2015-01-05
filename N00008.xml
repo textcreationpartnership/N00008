@@ -118,8 +118,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000025_0000_103CEF483412B428"/>
-            <pb facs="tcp:000025_0001_103CEAC4B671D9D8" rendition="simple:additions"/>
+            <pb facs="unknown:000025_0000_103CEF483412B428"/>
+            <pb facs="unknown:000025_0001_103CEAC4B671D9D8"
+                rendition="simple:additions"/>
             <p>A PLATFORM OF CHURCH DISCIPLINE GATHERED OUT OF THE WORD OF GOD: AND AGREED UPON BY THE ELDERS: AND MESSENGERS OF THE CHURCHES ASSEMBLED IN THE SYNOD AT CAMBRIDGE IN NEW ENGLAND To be presented to the Churches and Generall Court for their consideration and acceptance, in the Lord.</p>
             <p>The Eight Moneth Anno 1649</p>
             <q>
@@ -144,8 +145,9 @@
             </p>
          </div>
          <div type="preface">
-            <pb facs="tcp:000025_0002_103CEAC657DD2180"/>
-            <pb facs="tcp:000025_0003_103CEF375651E5D0" rendition="simple:additions"/>
+            <pb facs="unknown:000025_0002_103CEAC657DD2180"/>
+            <pb facs="unknown:000025_0003_103CEF375651E5D0"
+                rendition="simple:additions"/>
             <head>THE PREFACE</head>
             <p>
                <seg rend="decorInit">T</seg>HE setting forth of the Publick Confession of the Faith of Church<g ref="char:EOLhyphen"/>es hath a double end, &amp; <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -217,7 +219,7 @@
                <g ref="char:punc">▪</g> Touching which we<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> refere our
-<pb n="2" facs="tcp:000025_0004_103CEF38DBE05E28"/>
+<pb n="2" facs="unknown:000025_0004_103CEF38DBE05E28"/>
 selves to the draught of church-discpline in the ensueing treatise.</p>
             <p>The truth of what we here declare, may appear by the unanimous vote of the Synod of the Elders &amp; messengers of our churches assembled at Cambridg, the last of the sixth month, <hi>1648.</hi> wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -246,7 +248,7 @@ selves to the draught of church-discpline in the ensueing treatise.</p>
                </gap>th some or other of our brethren in England, so farr as they are come to mind &amp; speake the same thing with such as dissent from them, wee hope in Christ, it would not onely moderate the harsh judg<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ng
-<pb n="3" facs="tcp:000025_0005_103CEF3A93CA44D8"/>
+<pb n="3" facs="unknown:000025_0005_103CEF3A93CA44D8"/>
 and condemning of one another in such differences of judgment, as may be found in the choysest saints: but also preven<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> (by the mercy of Christ) the perill of the distraction &amp; destruction of all the churches in both k<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -288,7 +290,7 @@ and condemning of one another in such differences of judgment, as may be found i
                <hi>If it be said the first christ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>an church at Ierusalem, &amp; that at Antioch were gathered not out of any christian church, but out of the Jewish Temple and
-<pb n="4" facs="tcp:000025_0006_103CEF3C3ACB0298"/>
+<pb n="4" facs="unknown:000025_0006_103CEF3C3ACB0298"/>
 Synagogues, which were shortly after to be abolished: &amp; their gathering to Antioch, was upon occasion of dispersion in time of persecution.</hi>
             </p>
             <p>Wee desire, it may be considered, <hi>1</hi> That the members of the Jewish Church were more strongly and straitly tyed by express holy covenant, to keep fellowsh<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -333,7 +335,7 @@ Synagogues, which were shortly after to be abolished: &amp; their gathering to A
             </p>
             <p n="4">
                <pb n="5"
-                   facs="tcp:000025_0007_103CEF3E5DEF9EB8"
+                   facs="unknown:000025_0007_103CEF3E5DEF9EB8"
                    rendition="simple:additions"/>
                <hi>4</hi> Wee do not think it meet, or safe, for a member of a presbyteriall Church <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -466,7 +468,7 @@ Synagogues, which were shortly after to be abolished: &amp; their gathering to A
                </gap>wfull cause of depa<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ture<g ref="char:punc">▪</g>
-               <pb n="6" facs="tcp:000025_0008_103CEF4002D0B7E8"/>
+               <pb n="6" facs="unknown:000025_0008_103CEF4002D0B7E8"/>
 Though all of them do not concurr together. Neither will such a practise dispoyle the best Ministers of the parishes of their best hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ers.</p>
@@ -523,7 +525,7 @@ Though all of them do not concurr together. Neither will such a practise dispoyl
                </gap>nisters, nor by the parish churches (who have most right in them) but only by themselves.</p>
             <p>
                <hi>It may justly be demaunded<g ref="char:punc">▪</g> what right, or what powr have either the mini<g ref="char:EOLhyphen"/>sters, or parish church over them? Not by solemn church covenant: for that, though it be the firmest engagement, is not owned, but rejected. If it be, by
-<pb n="7" facs="tcp:000025_0009_103CEF418C0871C0"/>
+<pb n="7" facs="unknown:000025_0009_103CEF418C0871C0"/>
 Theit joyning with the parish, in the calling &amp; election of a minister to such a congregation at his first comming, there is indeed just weight in such an ingage<g ref="char:EOLhyphen"/>ment: nor doe wee judge it safe for such to remove from such a minister, unless it be upon such grounds, as may justly give him due satisfactio<g ref="char:cmbAbbrStroke">̄</g>. But if the unio<g ref="char:cmbAbbrStroke">̄</g> of such members to a parish Church, &amp; to the ministery therof, be only by co<g ref="char:EOLhyphen"/>habitation within the precincts of the parish, that union, as it was founded upo<g ref="char:cmbAbbrStroke">̄</g> humane law: so by humane law it may easily be released. Or otherwise, if a man remove his habitation, he removeth also the bond of his relation, &amp; the ground of offence.</hi>
             </p>
             <p n="4">
@@ -549,7 +551,7 @@ Theit joyning with the parish, in the calling &amp; election of a minister to su
                </gap>ip. <hi>3.15, 16.</hi> Ephesians. <hi>4 3.</hi>
             </p>
             <p>
-               <pb n="8" facs="tcp:000025_0010_103CEF43A66CF9A0"/>
+               <pb n="8" facs="unknown:000025_0010_103CEF43A66CF9A0"/>
                <hi>To the 2 Exception, That wee take no course for the gayning &amp; healing &amp; calling in of ignorant &amp; erronious, &amp; scandalous perso<g ref="char:cmbAbbrStroke">̄</g>s, whom wee refuse to receive into our churches &amp; so exclude them from the re<g ref="char:cmbAbbrStroke">̄</g>midy of church-disc<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>plie</hi>
@@ -682,7 +684,7 @@ Theit joyning with the parish, in the calling &amp; election of a minister to su
                   <desc>•</desc>
                </gap>h things as they have, &amp; not of
 <pb n="9"
-                   facs="tcp:000025_0011_103CEF452AD66288"
+                   facs="unknown:000025_0011_103CEF452AD66288"
                    rendition="simple:additions"/>
 Such as they have not. God accepteth not Robbery for a sacrifice. And though a godly his sholder may <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -783,14 +785,14 @@ Such as they have not. God accepteth not Robbery for a sacrifice. And though a g
                </gap>nt from the delusions of Satan? what fellowship hath Christ with B<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>lial? light with darkness? trueth with errour? The faithfull Iewes needed not the help of the Samaritans, to
-<pb n="10" facs="tcp:000025_0012_103CEF46B03070E8"/>
+<pb n="10" facs="unknown:000025_0012_103CEF46B03070E8"/>
 Readify the Temple of God: yea they rejected their help when it was offered, Ezra <hi>4.</hi> the <hi>1, 2, 3.</hi> And if the congregationall way be a way of trueth (as wee believe) &amp; if the brethren that walk in it be zealous of the trueth, &amp; hate every false way (as by the rule of their holy discipline they are instructed, <hi>2</hi> John. <hi>10, 11.</hi>) then verily, there is no branch in the Nationall covenant, that engageth the covenanters to abhore either Congregationall Churches, or their way: which being duely admini<g ref="char:EOLhyphen"/>stred, doe no less effectually extirpate the Antichristian Hierarchy, &amp; all Blasphe<g ref="char:EOLhyphen"/>mies, Heresyes, &amp; pernicious errours, then the other way of discipline doeth, which is more generally &amp; publickly received &amp; ratifyed.</p>
             <p>But the Lord Jesus commune with all our hearts in secret: &amp; he who is the King of his Church, let him be pleased to excercise his Kingly powr in our spirites, that so his kingdome may come into our Churches in Purity &amp; Peace. Amen Amen</p>
          </div>
       </front>
       <body>
          <div n="1" type="chapter">
-            <pb n="1" facs="tcp:000025_0013_103CEF9644C16070"/>
+            <pb n="1" facs="unknown:000025_0013_103CEF9644C16070"/>
             <head>CHAPTER I. Of the form of Church-Government; and that it is one, immutable, and prescribed in the Word of God.</head>
             <p n="1">1 <seg rend="decorInit">E</seg>cclesiasticall Polity or Church Government, or disci<g ref="char:EOLhyphen"/>pline is nothing els,<note place="margin">Ezek 43.11 Col. 2, 5 1 Tim 3 15</note> but that Forme &amp; order that is to be observed in the Church of Christ vpon earth, both for the Constitution of it, &amp; all the Admini<g ref="char:EOLhyphen"/>strations that therein are to bee performed.</p>
             <p n="2">2 Church-Government is Considered in a double respect either <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -810,7 +812,7 @@ Readify the Temple of God: yea they rejected their help when it was offered, Ezr
             <p n="4">4 The necessary circumstances, as time &amp; place &amp;c belonging un<g ref="char:EOLunhyphen"/>to order and decency,<note place="margin">1 King 12 <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>:28.29.</note> are not soe left unto men as that under pretence
-<pb n="2" facs="tcp:000025_0014_103CEF49BAF85428"/>
+<pb n="2" facs="unknown:000025_0014_103CEF49BAF85428"/>
 of thou,<note place="margin">Is<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>i <gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -863,7 +865,7 @@ of thou,<note place="margin">Is<gap reason="illegible" resp="#PDCC" extent="1 le
                   <desc>•</desc>
                </gap>evers, they injoy more over an union &amp; communion ecclesiasticall-Politicall: so wee deny an universall visible church.</p>
             <p n="5">5 The state of the members of the Militant visible church
-<pb n="3" facs="tcp:000025_0015_103CEF4B83F6B5A0"/>
+<pb n="3" facs="unknown:000025_0015_103CEF4B83F6B5A0"/>
                <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> in order, was either before the law, Oeconomical,<note place="margin">Gen. 18.19 <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -949,7 +951,7 @@ of thou,<note place="margin">Is<gap reason="illegible" resp="#PDCC" extent="1 le
                   </gap>.</hi>
             </p>
             <p n="4">
-               <pb n="4" facs="tcp:000025_0016_103CEF4D5C73D428"/>4 The <hi>matter</hi> of the Church in respect of <hi>its quantity</hi> 
+               <pb n="4" facs="unknown:000025_0016_103CEF4D5C73D428"/>4 The <hi>matter</hi> of the Church in respect of <hi>its quantity</hi> 
                <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> be of greater number when may ordinarily meet together <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -981,7 +983,7 @@ of thou,<note place="margin">Is<gap reason="illegible" resp="#PDCC" extent="1 le
                   </gap> 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>. 1 Tim 3 15.</note> or else they are not yet a particular church: as those similitudes hold forth which the Scripture makes use
-<pb n="5" facs="tcp:000025_0017_103CEF4F0A6047D0"/>
+<pb n="5" facs="unknown:000025_0017_103CEF4F0A6047D0"/>
 of, <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> shew the nature of particular Churches: As a <hi>Body</hi>
@@ -1034,7 +1036,7 @@ of, <gap reason="illegible" resp="#PDCC" extent="1 word">
                   </gap>ch-estate</hi> or a Company <hi>of</hi> pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>essors, &amp; the truth of membership of particular persons:
-<pb n="6" facs="tcp:000025_0018_103CEF509105B250"/>
+<pb n="6" facs="unknown:000025_0018_103CEF509105B250"/>
 yet wee conceive, the substance of it is kept, where there is <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> real Agreement &amp; consent, of a company of faithful persons to meet con<g ref="char:EOLhyphen"/>stantly together in one Congregation, for the publick worship of God, &amp; their mutuall edification: which real agreement &amp; consent they doe express by their constant practise in comming together for the publick worship of God, &amp; by their religious subjection unto the ordinances of God there:<note place="margin">Exod 19 5 to 8 &amp; 24 3 17. Iosh 24 18 to 24 Ps<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1069,7 +1071,7 @@ yet wee conceive, the substance of it is kept, where there is <gap reason="illeg
                </gap>ing, (which all Christs sheep are sub<g ref="char:EOLhyphen"/>iect to in this life), being unable to returne of themselves; together with the benefit of their mutual edification, and of their posterity, that they may not be cut of from the priviledges of the covenant<g ref="char:punc">▪</g> otherwis, if a believer offends, he remaines destitute of the remedy provided in that behalf, &amp; should all believers neglect this duty of joyning to all particular congregations: it might follow thereupon, that Christ should have no visible political churches upon earth,</p>
          </div>
          <div n="5" type="chapter">
-            <pb n="7" facs="tcp:000025_0019_103CEF52178397A0"/>
+            <pb n="7" facs="unknown:000025_0019_103CEF52178397A0"/>
             <head>
                <hi>CHAP V.</hi> Of the first subject of church-powr or, to whom church powr doth first belong.<note place="margin">M<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1126,7 +1128,7 @@ yet wee conceive, the substance of it is kept, where there is <gap reason="illeg
                <g ref="char:punc">▪</g> ordinary as <hi>Elders &amp; Deacons.</hi>
             </p>
             <p>
-               <pb n="8" facs="tcp:000025_0020_103CEF53B6502108"/>The <hi>Apostles, Prophets, &amp; Evangelists,</hi> as they were called ex<g ref="char:EOLhyphen"/>traordinarily by Christ, so their office ended with them selves whence it is,<note place="margin">1 Cor 4 9<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="8" facs="unknown:000025_0020_103CEF53B6502108"/>The <hi>Apostles, Prophets, &amp; Evangelists,</hi> as they were called ex<g ref="char:EOLhyphen"/>traordinarily by Christ, so their office ended with them selves whence it is,<note place="margin">1 Cor 4 9<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
                </note> that <hi>Paul</hi> directing <hi>Timothy</hi> how to carry along Church-Administrations, Giveth no direction about the choice or course of <hi>Apostle<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1171,7 +1173,7 @@ yet wee conceive, the substance of it is kept, where there is <gap reason="illeg
                   </gap>7.</note>2 The <hi>Ruling Elders</hi> work is to joyn with the <hi>Pastor &amp; Teacher</hi> in those acts of spiritual <hi>Rule</hi>
             </p>
             <p>
-               <pb n="9" facs="tcp:000025_0021_103CEF5577CA68E0"/>which are distinct from the ministry of the word &amp; Sacraments com<g ref="char:EOLhyphen"/>mitted to them<g ref="char:punc">▪</g> of which sort, these be, as followeth.<note place="margin">2 Chro. 23 19. Rev 21 12. 1 Tim 4 14. Mat 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="9" facs="unknown:000025_0021_103CEF5577CA68E0"/>which are distinct from the ministry of the word &amp; Sacraments com<g ref="char:EOLhyphen"/>mitted to them<g ref="char:punc">▪</g> of which sort, these be, as followeth.<note place="margin">2 Chro. 23 19. Rev 21 12. 1 Tim 4 14. Mat 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> 17. 2 Cor 2 7, 8 Act 2.6</note> I to <hi>open &amp; sou<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -1206,7 +1208,7 @@ yet wee conceive, the substance of it is kept, where there is <gap reason="illeg
             <p n="4">4 The office therefore being limited unto the care of the temporall good things of the church,<note place="margin">1 Cor 7.17</note> it extends not unto the attend<g ref="char:EOLhyphen"/>ance upon, &amp; administration of the spirituall things thereof, as the word, and Sacraments, or the like.</p>
             <p n="5">5 The ordinance of the Apostle, &amp; practice of the church,<note place="margin">1 Cor 16.1.2.3</note> commends the <hi>Lords day</hi> as a fit time for the contributions of the Saints.</p>
             <p n="6">
-               <pb n="10" facs="tcp:000025_0022_103CEF5750123260"/>
+               <pb n="10" facs="unknown:000025_0022_103CEF5750123260"/>
                <note place="margin">1 Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1255,7 +1257,7 @@ yet wee conceive, the substance of it is kept, where there is <gap reason="illeg
                      <desc>•</desc>
                   </gap>.13</note>6 A Church being <hi>free</hi> cannot become <hi>subject</hi> to any, but by a free election;</p>
             <p>
-               <pb n="11" facs="tcp:000025_0023_103CEF58E6F4C358"/>Yet when such a people do chuse any to be over them in the Lord, then do they becom subject,<note place="margin">Hebr. 13.17</note> &amp; most willingly submit to their mi<g ref="char:EOLhyphen"/>nistry in the Lord, whom they have so chosen.</p>
+               <pb n="11" facs="unknown:000025_0023_103CEF58E6F4C358"/>Yet when such a people do chuse any to be over them in the Lord, then do they becom subject,<note place="margin">Hebr. 13.17</note> &amp; most willingly submit to their mi<g ref="char:EOLhyphen"/>nistry in the Lord, whom they have so chosen.</p>
             <p n="7">7 And if the church have powr to <hi>chuse</hi> their officers &amp; mi<g ref="char:EOLhyphen"/>nisters, then in case of manifest unworthyness,<note place="margin">Rom. 16.17</note> &amp; delinquency they have powr also to <hi>depose</hi> them. For to open, &amp; shut: to chuse &amp; refuse; to constitute in office, &amp; remove from office: are acts be<g ref="char:EOLhyphen"/>longing unto the same powr.</p>
             <p n="8">8 Wee judge it much conducing to the wel-being, &amp; com<g ref="char:EOLhyphen"/>munion of churches, that where it may conveniently be done,<note place="margin">Cant. 8.8, 9</note> 
                <hi>neigh<g ref="char:EOLhyphen"/>bour-churches <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -1277,7 +1279,7 @@ yet wee conceive, the substance of it is kept, where there is <gap reason="illeg
                <hi>Ordination</hi> doth not constitute an officer, nor give him the essentials of his office. The Apostles were elders, without Imposition of hands by men: <hi>Paul &amp; Barnabas</hi> were officers, before that Imposition of hands. Acts. 13.3. The posterity of <hi>Levi</hi> were Pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>sts, &amp;
-<pb n="12" facs="tcp:000025_0024_103CEF5C6F3AD5E8"/>
+<pb n="12" facs="unknown:000025_0024_103CEF5C6F3AD5E8"/>
 Levits, before hands were laid on them by the Children of Israel.</p>
             <p n="3">
                <note place="margin">1 Tim 4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1352,7 +1354,7 @@ Levits, before hands were laid on them by the Children of Israel.</p>
                   <desc>•</desc>
                </gap>ven &amp; earth.</p>
             <p n="2">
-               <pb n="13" facs="tcp:000025_0025_103CEF5AA0C90D18"/>2 A Co<g ref="char:cmbAbbrStroke">̄</g>pany of professed believers <hi>Ecclesastically Confoederat,</hi> as they are a church before they have officers, &amp; without them; so ev<g ref="char:EOLhyphen"/>en in that estate,<note place="margin">Acts 1.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="13" facs="unknown:000025_0025_103CEF5AA0C90D18"/>2 A Co<g ref="char:cmbAbbrStroke">̄</g>pany of professed believers <hi>Ecclesastically Confoederat,</hi> as they are a church before they have officers, &amp; without them; so ev<g ref="char:EOLhyphen"/>en in that estate,<note place="margin">Acts 1.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> c: 14.13 c: 6.3, 4 M<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1462,7 +1464,7 @@ Levits, before hands were laid on them by the Children of Israel.</p>
                      <desc>•</desc>
                   </gap> Rom 16.17</note> direct<g ref="char:EOLunhyphen"/>ing therto to remove him fro<g ref="char:cmbAbbrStroke">̄</g> his Office: &amp; bei<g ref="char:cmbAbbrStroke">̄</g>g now but a me<g ref="char:cmbAbbrStroke">̄</g>ber, in case he add co<g ref="char:cmbAbbrStroke">̄</g>tumacy to his sin,</p>
             <p>
-               <pb n="14" facs="tcp:000025_0026_103CEF5E1CE35ED8"/>the Church that had powr to receive him into their fellowship, hath also the same powr to cast him out,<note place="margin">Matt. 13.17</note> that they have concerning any other member.</p>
+               <pb n="14" facs="unknown:000025_0026_103CEF5E1CE35ED8"/>the Church that had powr to receive him into their fellowship, hath also the same powr to cast him out,<note place="margin">Matt. 13.17</note> that they have concerning any other member.</p>
             <p n="7">
                <note place="margin">1 Tim. 5.17 Hebr. 13.17 <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1486,7 +1488,7 @@ Levits, before hands were laid on them by the Children of Israel.</p>
                      <desc>•</desc>
                   </gap> Cor. 2.6<g ref="char:punc">▪</g> 7</note> but they may sweetly agree together, as wee may see in the example of the Apostles furnished with the greatest church-powr, who took in the concurrence &amp; consent of the brethren in church-administrations.</p>
             <p>
-               <pb n="15" facs="tcp:000025_0027_103CEF60142F7330"/>Also that Scripture, 2 <hi>Cor</hi> 2.9. &amp; chap 10:6. doe declare, that what the churches were to act &amp; doe in these matters, they were to doe in a way of obedience,<note place="margin">Hebr. 13.17</note> &amp; that not only to the direction of the Apostles, but also of their ordinary Elders.</p>
+               <pb n="15" facs="unknown:000025_0027_103CEF60142F7330"/>Also that Scripture, 2 <hi>Cor</hi> 2.9. &amp; chap 10:6. doe declare, that what the churches were to act &amp; doe in these matters, they were to doe in a way of obedience,<note place="margin">Hebr. 13.17</note> &amp; that not only to the direction of the Apostles, but also of their ordinary Elders.</p>
             <p n="11">11 From the premisses, namely, that the ordinary powr of Government belonging only to the elders, powr of priviledg re<g ref="char:EOLhyphen"/>maineth with the brotherhood, (as powr of judgment in matters of censure, &amp; powr of liberty, in matters of liberty:) It followeth, that in an organick Church, &amp; right administration; all church acts, proceed after the manner of a mixt administration, so as no church act can be consummated, or perfected without the consent of both.</p>
          </div>
          <div n="11" type="chapter">
@@ -1512,7 +1514,7 @@ Levits, before hands were laid on them by the Children of Israel.</p>
             </p>
             <p>
                <pb n="16"
-                   facs="tcp:000025_0028_103CEF6198E707D0"
+                   facs="unknown:000025_0028_103CEF6198E707D0"
                    rendition="simple:additions"/>but even the later, as well as the former, is prescribed &amp; appointed by the Lord.<note place="margin">1 Cor. 16.2</note>
             </p>
             <p n="4">4 Not only members of Churches, but <hi>all that are taught <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1535,7 +1537,7 @@ Levits, before hands were laid on them by the Children of Israel.</p>
                      <desc>•</desc>
                   </gap>
                </note>2 The things which are requisite to be found in all church members, are, <hi>Repentance</hi> from sin, &amp; <hi>faith</hi> in Jesus Christ.
-<pb n="17" facs="tcp:000025_0029_103CEF631D6D0520"/>
+<pb n="17" facs="unknown:000025_0029_103CEF631D6D0520"/>
 And therfore these are the things wherof men are to be examined, at their admission into the church &amp; which then they must profess &amp; hold forth in such sort, as may satisfie <hi>
                   <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1638,7 +1640,7 @@ And therfore these are the things wherof men are to be examined, at their admiss
                   <desc>•</desc>
                </gap>t congregation. Psal. 40.10.</p>
             <p n="6">
-               <pb n="18" facs="tcp:000025_0030_103CEF64A22D2540"/>6 This profession of faith &amp; repentance, as it must be made by such at their <hi>admission,</hi> that were never in Church-society before: so nothing hindreth, but the same way also be performed by such as have formerly been members of some other church, &amp; the church to which they now joyn themselves as members, may lawfully require the same. Those three thousand. Acts. 2. which made their con<g ref="char:EOLhyphen"/>fession, were me<g ref="char:cmbAbbrStroke">̄</g>bers of the church of the Jewes before, so were they that were baptised by John.<note place="margin">Matt. 3.5.6 Gallat. 2<g ref="char:punc">▪</g> 4 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="18" facs="unknown:000025_0030_103CEF64A22D2540"/>6 This profession of faith &amp; repentance, as it must be made by such at their <hi>admission,</hi> that were never in Church-society before: so nothing hindreth, but the same way also be performed by such as have formerly been members of some other church, &amp; the church to which they now joyn themselves as members, may lawfully require the same. Those three thousand. Acts. 2. which made their con<g ref="char:EOLhyphen"/>fession, were me<g ref="char:cmbAbbrStroke">̄</g>bers of the church of the Jewes before, so were they that were baptised by John.<note place="margin">Matt. 3.5.6 Gallat. 2<g ref="char:punc">▪</g> 4 <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> Tim. 5.24</note> Churches may err in their admission: &amp; persons regularly admitted, may fall into offence. Otherwise, if Churches might obtrude their members, or if church-members might obtrude themselves upon other churches, without due tryall, the mat<g ref="char:EOLhyphen"/>ter so requiring, both the liberty of churches would hereby be infring<g ref="char:EOLhyphen"/>ed, in that they might not examine those, concer<g ref="char:cmbAbbrStroke">̄</g>ing whose fitness for communion, they were unsatisfied: &amp; besides the infringing of their liberty,<note place="margin">
                   <gap reason="illegible" resp="#PDCC" extent="1 paragraph">
@@ -1651,7 +1653,7 @@ And therfore these are the things wherof men are to be examined, at their admiss
             <p>Yet these Church-members that were so born, or received in their childhood, before they are capable of being made partakers of full co<g ref="char:cmbAbbrStroke">̄</g>munion, have many priviledges which others<g ref="char:punc">▪</g> not church-me<g ref="char:cmbAbbrStroke">̄</g>bers<g ref="char:punc">▪</g> have not: they are in covenant with God; have the seale therof upon them, <hi>viz.</hi> Baptisme; &amp; so if not regenerated, yet are in a more hopefull way of attayning regenerating grace, &amp; all the spiritual bles<g ref="char:EOLhyphen"/>sings both of the covena<g ref="char:cmbAbbrStroke">̄</g>t &amp; seal; they are also under Church-watch &amp; consequently subject, to the reprehensions, admonitions, &amp; cen<g ref="char:EOLhyphen"/>sures therof, for their healing and amendment, as need shall require.</p>
          </div>
          <div n="13" type="chapter">
-            <pb n="19" facs="tcp:000025_0031_103CEF668B1F59E0"/>
+            <pb n="19" facs="unknown:000025_0031_103CEF668B1F59E0"/>
             <head>CHAP: XIII. Of Church-members their removall from one Church to another, &amp; of letters of reco<g ref="char:cmbAbbrStroke">̄</g>mendation, &amp; dismission.</head>
             <p>CHurch-members may not <hi>remove</hi> or <hi>depart</hi> from the Church, &amp; so one from another as they please,<note place="margin">Hebr. <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -1720,7 +1722,7 @@ And therfore these are the things wherof men are to be examined, at their admiss
                   </gap>ll</hi> only conceived<g ref="char:punc">▪</g>
             </p>
             <p>
-               <pb n="20" facs="tcp:000025_0032_103CEF68D64FBF08"/>or indeed, in the Chu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="20" facs="unknown:000025_0032_103CEF68D64FBF08"/>or indeed, in the Chu<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>ch which might &amp; should be tolerated &amp; heal<g ref="char:EOLhyphen"/>ed with a spirit of meekness,<note place="margin">E<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -1757,7 +1759,7 @@ And therfore these are the things wherof men are to be examined, at their admiss
                   </gap>
                </note>THe <hi>Censures</hi> of the church, are appointed by Christ, for the pre<g ref="char:EOLhyphen"/>venting, removing,</p>
             <p>
-               <pb n="21" facs="tcp:000025_0033_103CEF6A9D7C3F90"/>&amp; healing of offences in the Church:<note place="margin">Iude. 29. D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="21" facs="unknown:000025_0033_103CEF6A9D7C3F90"/>&amp; healing of offences in the Church:<note place="margin">Iude. 29. D<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ut. 13.11 1 Cor. 5.6 Rom. 2.24</note> for the reclayming &amp; gayning of offending brethren: for the deterring of others from the like offe<g ref="char:cmbAbbrStroke">̄</g>c<g ref="char:EOLhyphen"/>es: for purging out the leaven which may infect the whole lump: for vindicating the honour of Christ, &amp; of his church, &amp; the holy profes<g ref="char:EOLhyphen"/>sion of the gospel: &amp; for preventing of the wrath of God,<note place="margin">Rev. 2.14.15, 16, &amp; 20</note> that may justly fall upon the church, if they should suffer his covenant, &amp; the seales therof, to be prophaned by notorious &amp; obstinate offenders.</p>
             <p n="2">2 If an offence be <hi>private</hi> (one brother offending another) the offender is to goe,<note place="margin">Mat. 5.23.24 Luk. 17.3, <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1792,7 +1794,7 @@ And therfore these are the things wherof men are to be examined, at their admiss
                   <desc>•</desc>
                </gap>eightly, on some have compassio<g ref="char:cmbAbbrStroke">̄</g> others save with fear.</p>
             <p n="5">
-               <pb n="22" facs="tcp:000025_0034_103CEF6C21928B20"/>
+               <pb n="22" facs="unknown:000025_0034_103CEF6C21928B20"/>
                <note place="margin">Matt 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -1877,7 +1879,7 @@ And therfore these are the things wherof men are to be examined, at their admiss
                   </gap>.25.</note> for the faults of other, wherin he hath no hand, &amp; wher<g ref="char:EOLhyphen"/>unto he gave no consent: for <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>s it more unreasonable, that a godly
-<pb n="23" facs="tcp:000025_0035_103CEF6DA4D99030"/>
+<pb n="23" facs="unknown:000025_0035_103CEF6DA4D99030"/>
 man should <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>, &amp; punish himselfe in not co<g ref="char:cmbAbbrStroke">̄</g>ming for his portion in the <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -1927,7 +1929,7 @@ man should <gap reason="illegible" resp="#PDCC" extent="1 span">
                </note> &amp; about the false teachers that broached that doc<g ref="char:EOLhyphen"/>trine. In which case, when any Church wanteth light or peace a<g ref="char:EOLhyphen"/>mongst themselves,<note place="margin">Acts 15.6.</note> it is a way of communion of churches (according to the word) to meet together by their Elders &amp; other messengers in a synod, to consider &amp; argue the points in doubt, or difference,<note place="margin">ver: 22.23<g ref="char:punc">▪</g>
                </note> &amp; haveing found out the way of truth &amp; peace, to commend the same by their letters &amp; messengers to the churches, whom the same may concern.</p>
             <p>
-               <pb n="24" facs="tcp:000025_0036_103CEF6F531106F8"/>But if a Church <gap reason="illegible" resp="#PDCC" extent="1 span">
+               <pb n="24" facs="unknown:000025_0036_103CEF6F531106F8"/>But if a Church <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> with d<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -2003,7 +2005,7 @@ man should <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>•</desc>
                </gap>e.</p>
             <p>
-               <pb n="25" facs="tcp:000025_0037_103CEF7114EBCDF0"/>Yea furthermore; if such innocent members after due wayting in the use of all good meanes for the healing of the offence of their own church, shall at last (with the allowa<g ref="char:cmbAbbrStroke">̄</g>ce of the counsel of ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="25" facs="unknown:000025_0037_103CEF7114EBCDF0"/>Yea furthermore; if such innocent members after due wayting in the use of all good meanes for the healing of the offence of their own church, shall at last (with the allowa<g ref="char:cmbAbbrStroke">̄</g>ce of the counsel of ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>gh<g ref="char:EOLhyphen"/>bour-churches) withdraw from the fellowsh<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -2052,7 +2054,7 @@ man should <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>•</desc>
                </gap>rous,
 <pb n="26"
-                   facs="tcp:000025_0038_103CEF72DFD71F80"
+                   facs="unknown:000025_0038_103CEF72DFD71F80"
                    rendition="simple:additions"/>
 it is a way, &amp; fitt season, to propagate one Church out of an other,<note place="margin">Is<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2087,7 +2089,7 @@ it is a way, &amp; fitt season, to propagate one Church out of an other,<note pl
                   <desc>••</desc>
                </gap>nistration &amp;
 <pb n="27"
-                   facs="tcp:000025_0039_103CEF7465728C40"
+                   facs="unknown:000025_0039_103CEF7465728C40"
                    rendition="simple:additions"/>
 Corruption in doctrine or man<g ref="char:cmbAbbrStroke">̄</g>ers in any particular Church,<note place="margin">2 Chron <gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -2163,7 +2165,7 @@ Corruption in doctrine or man<g ref="char:cmbAbbrStroke">̄</g>ers in any partic
                      <desc>••</desc>
                   </gap>
                </note> nor any intrencheth upon the authority of
-<pb n="28" facs="tcp:000025_0040_103CEF75E98380A0"/>
+<pb n="28" facs="unknown:000025_0040_103CEF75E98380A0"/>
 Civil Magistrates in their jurisdictions;<note place="margin">John 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>.36 Acts <gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2197,7 +2199,7 @@ Civil Magistrates in their jurisdictions;<note place="margin">John 1<gap reason=
                </gap>
                <g ref="char:cmbAbbrStroke">̄</g>
                <g ref="char:punc">▪</g>
-               <pb n="29" facs="tcp:000025_0041_103CEF77711CAD78"/>
+               <pb n="29" facs="unknown:000025_0041_103CEF77711CAD78"/>
 Asa, Jehoshaphat, Hezekiah, Josiah,<note place="margin">1 Kings 15.14. c 22.4<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> 2 King 12.3 c 14.4. c 15.35. 1 Kings 20.42. Job 29.25. c 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -2245,7 +2247,7 @@ Asa, Jehoshaphat, Hezekiah, Josiah,<note place="margin">1 Kings 15.14. c 22.4<ga
       </body>
       <back>
          <div type="table_of_contents">
-            <pb facs="tcp:000025_0042_103CEF794624A5A8"/>
+            <pb facs="unknown:000025_0042_103CEF794624A5A8"/>
             <head>A TABLE OF THE CONTENTS OF THE CHAPTERS IN THIS, <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>.</head>
